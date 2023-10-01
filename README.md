@@ -5,7 +5,7 @@ $ pkg update && pkg upgrade
 
 $ pkg install git python
 
-$ git clone https://github.com/Mahfuz-THBD/Wifi_Hack_Installer
+$ git clone https://github.com/cfsakil/SerpentHack_Install
 
 $ cd Wifi_Hack_Installer
 
