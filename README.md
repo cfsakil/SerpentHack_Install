@@ -7,7 +7,7 @@ $ pkg install git python
 
 $ git clone https://github.com/cfsakil/SerpentHack_Install
 
-$ cd Wifi_Hack_Installer
+$ cd SerpentHack_Install
 
 $ python Installer.py
 
